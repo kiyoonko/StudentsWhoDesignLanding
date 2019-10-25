@@ -1,0 +1,23 @@
+.navList{
+    color: #fff !important;
+    font-family: "Roboto Mono";
+    font-weight: 700;
+    margin-left: 3vw;
+}
+
+*{
+    color: #fff;
+}
+
+h1{
+    font-family: "Abril Fatface";
+    margin-left: 8vw;
+    margin-right: 8vw;
+    font-size: 3.33em !important;
+}
+
+.subSlogan{
+    font-family: "Roboto Mono";
+    margin-top: 4.5vh; 
+    margin-left: 8vw;
+}
