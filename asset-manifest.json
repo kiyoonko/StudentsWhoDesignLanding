@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/StudentsWhoDesignLanding/static/css/main.eaf1fd31.chunk.css",
+    "main.js": "/StudentsWhoDesignLanding/static/js/main.94b9a54d.chunk.js",
+    "main.js.map": "/StudentsWhoDesignLanding/static/js/main.94b9a54d.chunk.js.map",
+    "runtime-main.js": "/StudentsWhoDesignLanding/static/js/runtime-main.58abd9ae.js",
+    "runtime-main.js.map": "/StudentsWhoDesignLanding/static/js/runtime-main.58abd9ae.js.map",
+    "static/css/2.d7a94725.chunk.css": "/StudentsWhoDesignLanding/static/css/2.d7a94725.chunk.css",
+    "static/js/2.041b9aa8.chunk.js": "/StudentsWhoDesignLanding/static/js/2.041b9aa8.chunk.js",
+    "static/js/2.041b9aa8.chunk.js.map": "/StudentsWhoDesignLanding/static/js/2.041b9aa8.chunk.js.map",
+    "index.html": "/StudentsWhoDesignLanding/index.html",
+    "precache-manifest.4a90a93d94ec6975f04539e227f007fc.js": "/StudentsWhoDesignLanding/precache-manifest.4a90a93d94ec6975f04539e227f007fc.js",
+    "service-worker.js": "/StudentsWhoDesignLanding/service-worker.js",
+    "static/css/2.d7a94725.chunk.css.map": "/StudentsWhoDesignLanding/static/css/2.d7a94725.chunk.css.map",
+    "static/css/main.eaf1fd31.chunk.css.map": "/StudentsWhoDesignLanding/static/css/main.eaf1fd31.chunk.css.map",
+    "static/media/ApplyButton.svg": "/StudentsWhoDesignLanding/static/media/ApplyButton.66fcc5dd.svg",
+    "static/media/background.svg": "/StudentsWhoDesignLanding/static/media/background.b9da22f5.svg",
+    "static/media/logo.svg": "/StudentsWhoDesignLanding/static/media/logo.01974e99.svg",
+    "static/media/requestButton.svg": "/StudentsWhoDesignLanding/static/media/requestButton.4cd58557.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58abd9ae.js",
+    "static/css/2.d7a94725.chunk.css",
+    "static/js/2.041b9aa8.chunk.js",
+    "static/css/main.eaf1fd31.chunk.css",
+    "static/js/main.94b9a54d.chunk.js"
+  ]
+}
